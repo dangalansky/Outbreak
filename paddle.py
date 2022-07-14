@@ -1,7 +1,8 @@
 from turtle import Turtle
 
-class Paddle(Turtle):
 
+class Paddle(Turtle):
+    # create paddle from Turtle class
     def __init__(self, position):
         super().__init__()
         self.shape('square')
@@ -10,6 +11,7 @@ class Paddle(Turtle):
         self.penup()
         self.goto(position)
 
+    # enable paddle movement along x-axis
     def go_left(self):
         if self.xcor() > -240:
             new_x = self.xcor() - 40
