@@ -1,9 +1,9 @@
 # Turtle-Fling
 My version of the popular breakout game. 
 
-Fairly basic in operation, expecially regarding the physics involved. In my version, a turtle is bounced into a brick wall. For every brick smashed, a point is earned. Once the bricks are gone, another level is achieved. With each level, 8 more bricks are added and the speed of the turtle is increased. If the turtle passes the paddle, the game is over. At this point, the user is given the option to restart the game or quit. The last level involves 128 bricks and once this is beaten, the game is over. Lastly, the highscore is stored in a .txt file. If the player acheives a higher score, that is re-written with the new score. <br>
+Fairly basic in operation, especially regarding the physics involved. In my version, a turtle is bounced into a brick wall. For every brick smashed, a point is earned. Once the bricks are gone, another level is achieved. With each level, 8 more bricks are added and the speed of the turtle is increased. If the turtle passes the paddle, the game is over. At this point, the player is given the option to restart the game or quit. The last level involves 128 bricks and once this is beaten, the game is won. Lastly, the highscore is stored in a .txt file. If the player achieves a higher score, that is re-written with the new score. <br>
 
-Regarding the graphic game design, all background design was completed in Adobe illustrator by yours truly. I have included a zip file for the draconian typewriter font which is required for proepr functionality regarding score and level counts. Otherwise, as always, feel free to steal or destory at will. 
+Regarding the graphic game design, all background design was completed in Adobe illustrator by yours truly. I have included a .zip file for the draconian typewriter font which is required for proper functionality regarding score and level counts. Otherwise, as always, feel free to steal or destroy my art at will. 
 
 
 
